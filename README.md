@@ -1,6 +1,7 @@
 # Week_5
 ## Overview of the analysis
 In this analysis we broke down driver and city data to get a better understanding of the ride sharing business PyBer. We used the classification of urban, suburban, and rural to get a breakdown. By dividing the data among 3 groups we got a better look at how location influenced fares. We then went farther and got breakdown of amount of fares per week by location type and plotted it in the chart below.
+![PyBer_fare_summary](https://user-images.githubusercontent.com/96025706/151721145-16e124d8-3590-4432-9327-2cda4b208d14.png)
 
 ## Description of the differences in ride-sharing data among the different city types.
 Below is our summary data of PyBer rides. We can draw a couple of observations from the data. We can see that rural drivers make the most per ride and have the least number of drivers. At the same time urban drivers make the least per ride and have the most drivers. Urban areas have the highest total fares which likely explains the increased number of drivers.
